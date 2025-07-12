@@ -16,12 +16,6 @@ This project is a **simple and interactive drag-and-drop UI** built with **HTML,
 
 ---
 
-## 📸 Screenshot
-
-![Drag and Drop Demo](https://picsum.photos/seed/dragdropreadme/800/400)
-
----
-
 ## 🛠️ Tech Stack
 
 - HTML5
