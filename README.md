@@ -10,7 +10,6 @@ This project is a **simple and interactive drag-and-drop UI** built with **HTML,
 
 - 📦 Dynamically generated cards with dummy image and text
 - 🖱️ Drag any card and drop it on another to **swap positions**
-- 🔁 Fully synced visual and data model (array-based reordering)
 - 🧠 Clear structure for easy understanding and experimentation
 - 🧩 Bootstrap layout for responsive grid and styling
 
